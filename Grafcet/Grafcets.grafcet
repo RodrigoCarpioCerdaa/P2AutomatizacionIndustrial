@@ -8307,7 +8307,7 @@ todavía hay soportes o no</Caption>
           <Bottom>0</Bottom>
         </Margin>
         <Height>64</Height>
-        <Width>109.54666666666668</Width>
+        <Width>112</Width>
         <TypeEnum>Transition</TypeEnum>
         <ConditionStr>1</ConditionStr>
         <TransitionStr>1s/X321A</TransitionStr>
@@ -8355,47 +8355,6 @@ todavía hay soportes o no</Caption>
         <ActionStr>?</ActionStr>
         <Caption />
         <Id>338299ac-ac0c-4b3d-8666-ced3d46edeec</Id>
-        <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
-        <IsHorizontalLine>false</IsHorizontalLine>
-        <IsDirectionToTop>false</IsDirectionToTop>
-        <FontSize>10</FontSize>
-        <BackgroundColor>
-          <A>0</A>
-          <R>0</R>
-          <G>0</G>
-          <B>0</B>
-          <ScA>0</ScA>
-          <ScR>0</ScR>
-          <ScG>0</ScG>
-          <ScB>0</ScB>
-        </BackgroundColor>
-        <JumpTargetId>00000000-0000-0000-0000-000000000000</JumpTargetId>
-        <GroupName>-</GroupName>
-        <IsSourceTransition>false</IsSourceTransition>
-        <IsFinalTransition>false</IsFinalTransition>
-        <TargetLinkId>00000000-0000-0000-0000-000000000000</TargetLinkId>
-        <IsGenerated>false</IsGenerated>
-      </GrafcetItemProperties>
-      <GrafcetItemProperties>
-        <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
-        <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
-        <CbCopyDateTime xsi:nil="true" />
-        <IsHorizontalTransition>false</IsHorizontalTransition>
-        <IsStartStep>false</IsStartStep>
-        <Margin>
-          <Left>544</Left>
-          <Top>784</Top>
-          <Right>0</Right>
-          <Bottom>0</Bottom>
-        </Margin>
-        <Height>16</Height>
-        <Width>463.33333333333337</Width>
-        <TypeEnum>ParallelConnectionTop</TypeEnum>
-        <ConditionStr>1</ConditionStr>
-        <TransitionStr />
-        <ActionStr>?</ActionStr>
-        <Caption />
-        <Id>8ef679ef-be8d-435f-b481-d9e41fb05731</Id>
         <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
         <IsHorizontalLine>false</IsHorizontalLine>
         <IsDirectionToTop>false</IsDirectionToTop>
@@ -8910,7 +8869,7 @@ todavía hay soportes o no</Caption>
         <IsGenerated>false</IsGenerated>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
-        <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+        <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
         <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
         <CbCopyDateTime xsi:nil="true" />
         <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -9704,7 +9663,7 @@ todavía hay soportes o no</Caption>
         <Width>255.8</Width>
         <TypeEnum>Transition</TypeEnum>
         <ConditionStr>1</ConditionStr>
-        <TransitionStr>[Count_soportes &lt;= N_soportes]</TransitionStr>
+        <TransitionStr>[Count_soportes &gt;= N_soportes]</TransitionStr>
         <ActionStr>?</ActionStr>
         <Caption />
         <Id>1cb2ad1f-fd7b-47cc-be0b-4f4c226667d2</Id>
@@ -9745,7 +9704,7 @@ todavía hay soportes o no</Caption>
         <Width>378.47333333333336</Width>
         <TypeEnum>Transition</TypeEnum>
         <ConditionStr>1</ConditionStr>
-        <TransitionStr>[Count_vacunas &lt;= N_vacunas] * Robot_vacuna_hecho</TransitionStr>
+        <TransitionStr>[Count_vacunas &gt;= N_vacunas] * Robot_vacuna_hecho</TransitionStr>
         <ActionStr>?</ActionStr>
         <Caption />
         <Id>851ab082-b2c0-407f-98e9-c903ec69d219</Id>
@@ -10487,6 +10446,47 @@ todavía hay soportes o no</Caption>
         <ActionStr>?</ActionStr>
         <Caption />
         <Id>9e9fcc4b-20c9-4cd7-8289-af5ce47902b5</Id>
+        <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
+        <IsHorizontalLine>false</IsHorizontalLine>
+        <IsDirectionToTop>false</IsDirectionToTop>
+        <FontSize>10</FontSize>
+        <BackgroundColor>
+          <A>0</A>
+          <R>0</R>
+          <G>0</G>
+          <B>0</B>
+          <ScA>0</ScA>
+          <ScR>0</ScR>
+          <ScG>0</ScG>
+          <ScB>0</ScB>
+        </BackgroundColor>
+        <JumpTargetId>00000000-0000-0000-0000-000000000000</JumpTargetId>
+        <GroupName>-</GroupName>
+        <IsSourceTransition>false</IsSourceTransition>
+        <IsFinalTransition>false</IsFinalTransition>
+        <TargetLinkId>00000000-0000-0000-0000-000000000000</TargetLinkId>
+        <IsGenerated>false</IsGenerated>
+      </GrafcetItemProperties>
+      <GrafcetItemProperties>
+        <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
+        <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
+        <CbCopyDateTime xsi:nil="true" />
+        <IsHorizontalTransition>false</IsHorizontalTransition>
+        <IsStartStep>false</IsStartStep>
+        <Margin>
+          <Left>544</Left>
+          <Top>784</Top>
+          <Right>0</Right>
+          <Bottom>0</Bottom>
+        </Margin>
+        <Height>16</Height>
+        <Width>457.41176470588238</Width>
+        <TypeEnum>ParallelConnectionTop</TypeEnum>
+        <ConditionStr>1</ConditionStr>
+        <TransitionStr />
+        <ActionStr>?</ActionStr>
+        <Caption />
+        <Id>0e0e77f5-c192-491c-b71b-3176820a3ac7</Id>
         <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
         <IsHorizontalLine>false</IsHorizontalLine>
         <IsDirectionToTop>false</IsDirectionToTop>
@@ -23821,7 +23821,7 @@ todavía hay soportes o no</Caption>
               <Bottom>0</Bottom>
             </Margin>
             <Height>64</Height>
-            <Width>109.54666666666668</Width>
+            <Width>112</Width>
             <TypeEnum>Transition</TypeEnum>
             <ConditionStr>1</ConditionStr>
             <TransitionStr>1s/X321A</TransitionStr>
@@ -23869,47 +23869,6 @@ todavía hay soportes o no</Caption>
             <ActionStr>?</ActionStr>
             <Caption />
             <Id>338299ac-ac0c-4b3d-8666-ced3d46edeec</Id>
-            <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
-            <IsHorizontalLine>false</IsHorizontalLine>
-            <IsDirectionToTop>false</IsDirectionToTop>
-            <FontSize>10</FontSize>
-            <BackgroundColor>
-              <A>0</A>
-              <R>0</R>
-              <G>0</G>
-              <B>0</B>
-              <ScA>0</ScA>
-              <ScR>0</ScR>
-              <ScG>0</ScG>
-              <ScB>0</ScB>
-            </BackgroundColor>
-            <JumpTargetId>00000000-0000-0000-0000-000000000000</JumpTargetId>
-            <GroupName>-</GroupName>
-            <IsSourceTransition>false</IsSourceTransition>
-            <IsFinalTransition>false</IsFinalTransition>
-            <TargetLinkId>00000000-0000-0000-0000-000000000000</TargetLinkId>
-            <IsGenerated>false</IsGenerated>
-          </GrafcetItemProperties>
-          <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
-            <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
-            <CbCopyDateTime xsi:nil="true" />
-            <IsHorizontalTransition>false</IsHorizontalTransition>
-            <IsStartStep>false</IsStartStep>
-            <Margin>
-              <Left>544</Left>
-              <Top>784</Top>
-              <Right>0</Right>
-              <Bottom>0</Bottom>
-            </Margin>
-            <Height>16</Height>
-            <Width>463.33333333333337</Width>
-            <TypeEnum>ParallelConnectionTop</TypeEnum>
-            <ConditionStr>1</ConditionStr>
-            <TransitionStr />
-            <ActionStr>?</ActionStr>
-            <Caption />
-            <Id>8ef679ef-be8d-435f-b481-d9e41fb05731</Id>
             <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
             <IsHorizontalLine>false</IsHorizontalLine>
             <IsDirectionToTop>false</IsDirectionToTop>
@@ -24424,7 +24383,7 @@ todavía hay soportes o no</Caption>
             <IsGenerated>false</IsGenerated>
           </GrafcetItemProperties>
           <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+            <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
             <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
             <CbCopyDateTime xsi:nil="true" />
             <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -25218,7 +25177,7 @@ todavía hay soportes o no</Caption>
             <Width>255.8</Width>
             <TypeEnum>Transition</TypeEnum>
             <ConditionStr>1</ConditionStr>
-            <TransitionStr>[Count_soportes &lt;= N_soportes]</TransitionStr>
+            <TransitionStr>[Count_soportes &gt;= N_soportes]</TransitionStr>
             <ActionStr>?</ActionStr>
             <Caption />
             <Id>1cb2ad1f-fd7b-47cc-be0b-4f4c226667d2</Id>
@@ -25259,7 +25218,7 @@ todavía hay soportes o no</Caption>
             <Width>378.47333333333336</Width>
             <TypeEnum>Transition</TypeEnum>
             <ConditionStr>1</ConditionStr>
-            <TransitionStr>[Count_vacunas &lt;= N_vacunas] * Robot_vacuna_hecho</TransitionStr>
+            <TransitionStr>[Count_vacunas &gt;= N_vacunas] * Robot_vacuna_hecho</TransitionStr>
             <ActionStr>?</ActionStr>
             <Caption />
             <Id>851ab082-b2c0-407f-98e9-c903ec69d219</Id>
@@ -26001,6 +25960,47 @@ todavía hay soportes o no</Caption>
             <ActionStr>?</ActionStr>
             <Caption />
             <Id>9e9fcc4b-20c9-4cd7-8289-af5ce47902b5</Id>
+            <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
+            <IsHorizontalLine>false</IsHorizontalLine>
+            <IsDirectionToTop>false</IsDirectionToTop>
+            <FontSize>10</FontSize>
+            <BackgroundColor>
+              <A>0</A>
+              <R>0</R>
+              <G>0</G>
+              <B>0</B>
+              <ScA>0</ScA>
+              <ScR>0</ScR>
+              <ScG>0</ScG>
+              <ScB>0</ScB>
+            </BackgroundColor>
+            <JumpTargetId>00000000-0000-0000-0000-000000000000</JumpTargetId>
+            <GroupName>-</GroupName>
+            <IsSourceTransition>false</IsSourceTransition>
+            <IsFinalTransition>false</IsFinalTransition>
+            <TargetLinkId>00000000-0000-0000-0000-000000000000</TargetLinkId>
+            <IsGenerated>false</IsGenerated>
+          </GrafcetItemProperties>
+          <GrafcetItemProperties>
+            <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
+            <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
+            <CbCopyDateTime xsi:nil="true" />
+            <IsHorizontalTransition>false</IsHorizontalTransition>
+            <IsStartStep>false</IsStartStep>
+            <Margin>
+              <Left>544</Left>
+              <Top>784</Top>
+              <Right>0</Right>
+              <Bottom>0</Bottom>
+            </Margin>
+            <Height>16</Height>
+            <Width>457.41176470588238</Width>
+            <TypeEnum>ParallelConnectionTop</TypeEnum>
+            <ConditionStr>1</ConditionStr>
+            <TransitionStr />
+            <ActionStr>?</ActionStr>
+            <Caption />
+            <Id>0e0e77f5-c192-491c-b71b-3176820a3ac7</Id>
             <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
             <IsHorizontalLine>false</IsHorizontalLine>
             <IsDirectionToTop>false</IsDirectionToTop>
@@ -30264,8 +30264,8 @@ todavía hay soportes o no</Caption>
         <AoPins>2,3</AoPins>
       </PinConfig>
     </ArduinoDueSettings>
-    <DtGrafcetStructure>2025-12-09T19:29:05.7952437+01:00</DtGrafcetStructure>
-    <DtInterpreterData>2025-12-09T19:29:38.7811373+01:00</DtInterpreterData>
+    <DtGrafcetStructure>2025-12-11T19:01:34.0448882+01:00</DtGrafcetStructure>
+    <DtInterpreterData>2025-12-11T19:01:34.0448882+01:00</DtInterpreterData>
     <TimeStampGrafcetDataOnline xsi:nil="true" />
     <TimeStampInterpreterDataOnline xsi:nil="true" />
     <IoPanelSettings>
