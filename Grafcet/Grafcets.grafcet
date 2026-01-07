@@ -5093,7 +5093,7 @@ cuando se la pida, el sensor mueve la vacuna hasta que le llegue</Caption>
         <IsGenerated>false</IsGenerated>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
-        <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+        <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
         <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
         <CbCopyDateTime xsi:nil="true" />
         <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -5110,7 +5110,7 @@ cuando se la pida, el sensor mueve la vacuna hasta que le llegue</Caption>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
         <ActionStr>?</ActionStr>
-        <Caption>231B</Caption>
+        <Caption>232B</Caption>
         <Id>1e810bee-8b64-4690-9228-be419191900f</Id>
         <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
         <IsHorizontalLine>false</IsHorizontalLine>
@@ -5216,7 +5216,7 @@ cuando se la pida, el sensor mueve la vacuna hasta que le llegue</Caption>
         <IsGenerated>false</IsGenerated>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
-        <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+        <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
         <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
         <CbCopyDateTime xsi:nil="true" />
         <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -5233,7 +5233,7 @@ cuando se la pida, el sensor mueve la vacuna hasta que le llegue</Caption>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
         <ActionStr>?</ActionStr>
-        <Caption>232B</Caption>
+        <Caption>233B</Caption>
         <Id>f28744bd-dc51-468c-9eb1-b3fbe228374a</Id>
         <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
         <IsHorizontalLine>false</IsHorizontalLine>
@@ -5585,14 +5585,14 @@ cuando se la pida, el sensor mueve la vacuna hasta que le llegue</Caption>
         <IsGenerated>false</IsGenerated>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
-        <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+        <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
         <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
         <CbCopyDateTime xsi:nil="true" />
         <IsHorizontalTransition>false</IsHorizontalTransition>
         <IsStartStep>false</IsStartStep>
         <Margin>
           <Left>992</Left>
-          <Top>527.99999999999966</Top>
+          <Top>528</Top>
           <Right>0</Right>
           <Bottom>0</Bottom>
         </Margin>
@@ -5602,7 +5602,7 @@ cuando se la pida, el sensor mueve la vacuna hasta que le llegue</Caption>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
         <ActionStr>?</ActionStr>
-        <Caption>231C</Caption>
+        <Caption>232C</Caption>
         <Id>7882547d-635d-4dc9-8763-a7f04c1f1160</Id>
         <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
         <IsHorizontalLine>false</IsHorizontalLine>
@@ -5749,14 +5749,14 @@ cuando se la pida, el sensor mueve la vacuna hasta que le llegue</Caption>
         <IsGenerated>false</IsGenerated>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
-        <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+        <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
         <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
         <CbCopyDateTime xsi:nil="true" />
         <IsHorizontalTransition>false</IsHorizontalTransition>
         <IsStartStep>false</IsStartStep>
         <Margin>
           <Left>992</Left>
-          <Top>623.99999999999784</Top>
+          <Top>624</Top>
           <Right>0</Right>
           <Bottom>0</Bottom>
         </Margin>
@@ -5766,7 +5766,7 @@ cuando se la pida, el sensor mueve la vacuna hasta que le llegue</Caption>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
         <ActionStr>?</ActionStr>
-        <Caption>232C</Caption>
+        <Caption>233C</Caption>
         <Id>37d51356-7ec7-41f2-91d6-812180e3e7fc</Id>
         <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
         <IsHorizontalLine>false</IsHorizontalLine>
@@ -5930,7 +5930,7 @@ cuando se la pida, el sensor mueve la vacuna hasta que le llegue</Caption>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
         <ActionStr>?</ActionStr>
-        <Caption>24</Caption>
+        <Caption>231A</Caption>
         <Id>b804403d-e0ad-4527-bbb9-aae60395e3eb</Id>
         <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
         <IsHorizontalLine>false</IsHorizontalLine>
@@ -6340,7 +6340,7 @@ cuando se la pida, el sensor mueve la vacuna hasta que le llegue</Caption>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
         <ActionStr>?</ActionStr>
-        <Caption>1</Caption>
+        <Caption>231B</Caption>
         <Id>f5e4b199-3eda-4a18-bca6-ab2ceefaaae9</Id>
         <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
         <IsHorizontalLine>false</IsHorizontalLine>
@@ -6504,7 +6504,7 @@ cuando se la pida, el sensor mueve la vacuna hasta que le llegue</Caption>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
         <ActionStr>?</ActionStr>
-        <Caption>3</Caption>
+        <Caption>231C</Caption>
         <Id>091fc7c3-90f4-485c-9f18-c11d51aeef91</Id>
         <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
         <IsHorizontalLine>false</IsHorizontalLine>
@@ -6622,10 +6622,10 @@ cuando se la pida, el sensor mueve la vacuna hasta que le llegue</Caption>
           <Bottom>0</Bottom>
         </Margin>
         <Height>64</Height>
-        <Width>83.160000000000025</Width>
+        <Width>109.54666666666668</Width>
         <TypeEnum>Transition</TypeEnum>
         <ConditionStr>1</ConditionStr>
-        <TransitionStr>1s/X24</TransitionStr>
+        <TransitionStr>1s/X231A</TransitionStr>
         <ActionStr>?</ActionStr>
         <Caption />
         <Id>8783c6e8-375a-43fb-8cb6-2ca733ce2000</Id>
@@ -6668,7 +6668,7 @@ cuando se la pida, el sensor mueve la vacuna hasta que le llegue</Caption>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
         <ActionStr>?</ActionStr>
-        <Caption>4</Caption>
+        <Caption>232A</Caption>
         <Id>b12487db-1793-4787-bea6-476b89e92e8e</Id>
         <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
         <IsHorizontalLine>false</IsHorizontalLine>
@@ -13053,7 +13053,7 @@ todavía hay soportes o no</Caption>
         <IsGenerated>false</IsGenerated>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
-        <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+        <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
         <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
         <CbCopyDateTime xsi:nil="true" />
         <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -13065,10 +13065,10 @@ todavía hay soportes o no</Caption>
           <Bottom>0</Bottom>
         </Margin>
         <Height>64</Height>
-        <Width>128</Width>
+        <Width>83.160000000000025</Width>
         <TypeEnum>Transition</TypeEnum>
         <ConditionStr>1</ConditionStr>
-        <TransitionStr>↓PP_moving_Z</TransitionStr>
+        <TransitionStr>2s/x58</TransitionStr>
         <ActionStr>?</ActionStr>
         <Caption />
         <Id>81f5db5c-109d-4bc5-9b08-17e7a84657f9</Id>
@@ -20607,7 +20607,7 @@ cuando se la pida, el sensor mueve la vacuna hasta que le llegue</Caption>
             <IsGenerated>false</IsGenerated>
           </GrafcetItemProperties>
           <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+            <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
             <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
             <CbCopyDateTime xsi:nil="true" />
             <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -20624,7 +20624,7 @@ cuando se la pida, el sensor mueve la vacuna hasta que le llegue</Caption>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
             <ActionStr>?</ActionStr>
-            <Caption>231B</Caption>
+            <Caption>232B</Caption>
             <Id>1e810bee-8b64-4690-9228-be419191900f</Id>
             <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
             <IsHorizontalLine>false</IsHorizontalLine>
@@ -20730,7 +20730,7 @@ cuando se la pida, el sensor mueve la vacuna hasta que le llegue</Caption>
             <IsGenerated>false</IsGenerated>
           </GrafcetItemProperties>
           <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+            <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
             <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
             <CbCopyDateTime xsi:nil="true" />
             <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -20747,7 +20747,7 @@ cuando se la pida, el sensor mueve la vacuna hasta que le llegue</Caption>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
             <ActionStr>?</ActionStr>
-            <Caption>232B</Caption>
+            <Caption>233B</Caption>
             <Id>f28744bd-dc51-468c-9eb1-b3fbe228374a</Id>
             <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
             <IsHorizontalLine>false</IsHorizontalLine>
@@ -21099,14 +21099,14 @@ cuando se la pida, el sensor mueve la vacuna hasta que le llegue</Caption>
             <IsGenerated>false</IsGenerated>
           </GrafcetItemProperties>
           <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+            <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
             <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
             <CbCopyDateTime xsi:nil="true" />
             <IsHorizontalTransition>false</IsHorizontalTransition>
             <IsStartStep>false</IsStartStep>
             <Margin>
               <Left>992</Left>
-              <Top>527.99999999999966</Top>
+              <Top>528</Top>
               <Right>0</Right>
               <Bottom>0</Bottom>
             </Margin>
@@ -21116,7 +21116,7 @@ cuando se la pida, el sensor mueve la vacuna hasta que le llegue</Caption>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
             <ActionStr>?</ActionStr>
-            <Caption>231C</Caption>
+            <Caption>232C</Caption>
             <Id>7882547d-635d-4dc9-8763-a7f04c1f1160</Id>
             <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
             <IsHorizontalLine>false</IsHorizontalLine>
@@ -21263,14 +21263,14 @@ cuando se la pida, el sensor mueve la vacuna hasta que le llegue</Caption>
             <IsGenerated>false</IsGenerated>
           </GrafcetItemProperties>
           <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+            <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
             <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
             <CbCopyDateTime xsi:nil="true" />
             <IsHorizontalTransition>false</IsHorizontalTransition>
             <IsStartStep>false</IsStartStep>
             <Margin>
               <Left>992</Left>
-              <Top>623.99999999999784</Top>
+              <Top>624</Top>
               <Right>0</Right>
               <Bottom>0</Bottom>
             </Margin>
@@ -21280,7 +21280,7 @@ cuando se la pida, el sensor mueve la vacuna hasta que le llegue</Caption>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
             <ActionStr>?</ActionStr>
-            <Caption>232C</Caption>
+            <Caption>233C</Caption>
             <Id>37d51356-7ec7-41f2-91d6-812180e3e7fc</Id>
             <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
             <IsHorizontalLine>false</IsHorizontalLine>
@@ -21444,7 +21444,7 @@ cuando se la pida, el sensor mueve la vacuna hasta que le llegue</Caption>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
             <ActionStr>?</ActionStr>
-            <Caption>24</Caption>
+            <Caption>231A</Caption>
             <Id>b804403d-e0ad-4527-bbb9-aae60395e3eb</Id>
             <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
             <IsHorizontalLine>false</IsHorizontalLine>
@@ -21854,7 +21854,7 @@ cuando se la pida, el sensor mueve la vacuna hasta que le llegue</Caption>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
             <ActionStr>?</ActionStr>
-            <Caption>1</Caption>
+            <Caption>231B</Caption>
             <Id>f5e4b199-3eda-4a18-bca6-ab2ceefaaae9</Id>
             <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
             <IsHorizontalLine>false</IsHorizontalLine>
@@ -22018,7 +22018,7 @@ cuando se la pida, el sensor mueve la vacuna hasta que le llegue</Caption>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
             <ActionStr>?</ActionStr>
-            <Caption>3</Caption>
+            <Caption>231C</Caption>
             <Id>091fc7c3-90f4-485c-9f18-c11d51aeef91</Id>
             <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
             <IsHorizontalLine>false</IsHorizontalLine>
@@ -22136,10 +22136,10 @@ cuando se la pida, el sensor mueve la vacuna hasta que le llegue</Caption>
               <Bottom>0</Bottom>
             </Margin>
             <Height>64</Height>
-            <Width>83.160000000000025</Width>
+            <Width>109.54666666666668</Width>
             <TypeEnum>Transition</TypeEnum>
             <ConditionStr>1</ConditionStr>
-            <TransitionStr>1s/X24</TransitionStr>
+            <TransitionStr>1s/X231A</TransitionStr>
             <ActionStr>?</ActionStr>
             <Caption />
             <Id>8783c6e8-375a-43fb-8cb6-2ca733ce2000</Id>
@@ -22182,7 +22182,7 @@ cuando se la pida, el sensor mueve la vacuna hasta que le llegue</Caption>
             <ConditionStr>1</ConditionStr>
             <TransitionStr />
             <ActionStr>?</ActionStr>
-            <Caption>4</Caption>
+            <Caption>232A</Caption>
             <Id>b12487db-1793-4787-bea6-476b89e92e8e</Id>
             <GroupId>00000000-0000-0000-0000-000000000000</GroupId>
             <IsHorizontalLine>false</IsHorizontalLine>
@@ -28567,7 +28567,7 @@ todavía hay soportes o no</Caption>
             <IsGenerated>false</IsGenerated>
           </GrafcetItemProperties>
           <GrafcetItemProperties>
-            <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+            <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
             <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
             <CbCopyDateTime xsi:nil="true" />
             <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -28579,10 +28579,10 @@ todavía hay soportes o no</Caption>
               <Bottom>0</Bottom>
             </Margin>
             <Height>64</Height>
-            <Width>128</Width>
+            <Width>83.160000000000025</Width>
             <TypeEnum>Transition</TypeEnum>
             <ConditionStr>1</ConditionStr>
-            <TransitionStr>↓PP_moving_Z</TransitionStr>
+            <TransitionStr>2s/x58</TransitionStr>
             <ActionStr>?</ActionStr>
             <Caption />
             <Id>81f5db5c-109d-4bc5-9b08-17e7a84657f9</Id>
@@ -30264,8 +30264,8 @@ todavía hay soportes o no</Caption>
         <AoPins>2,3</AoPins>
       </PinConfig>
     </ArduinoDueSettings>
-    <DtGrafcetStructure>2025-12-11T19:01:34.0448882+01:00</DtGrafcetStructure>
-    <DtInterpreterData>2025-12-11T19:01:34.0448882+01:00</DtInterpreterData>
+    <DtGrafcetStructure>2026-01-07T15:31:34.8986608+01:00</DtGrafcetStructure>
+    <DtInterpreterData>2026-01-07T15:31:34.8986608+01:00</DtInterpreterData>
     <TimeStampGrafcetDataOnline xsi:nil="true" />
     <TimeStampInterpreterDataOnline xsi:nil="true" />
     <IoPanelSettings>
