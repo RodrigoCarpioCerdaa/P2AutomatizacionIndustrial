@@ -6458,10 +6458,10 @@ cuando se la pida, el sensor mueve la vacuna hasta que le llegue</Caption>
           <Bottom>0</Bottom>
         </Margin>
         <Height>64</Height>
-        <Width>109.54666666666668</Width>
+        <Width>119.93333333333334</Width>
         <TypeEnum>Transition</TypeEnum>
         <ConditionStr>1</ConditionStr>
-        <TransitionStr>1s/X230C</TransitionStr>
+        <TransitionStr>0.5s/X230C</TransitionStr>
         <ActionStr>?</ActionStr>
         <Caption />
         <Id>04171961-200d-4b38-af4f-f337e0d431cc</Id>
@@ -21972,10 +21972,10 @@ cuando se la pida, el sensor mueve la vacuna hasta que le llegue</Caption>
               <Bottom>0</Bottom>
             </Margin>
             <Height>64</Height>
-            <Width>109.54666666666668</Width>
+            <Width>119.93333333333334</Width>
             <TypeEnum>Transition</TypeEnum>
             <ConditionStr>1</ConditionStr>
-            <TransitionStr>1s/X230C</TransitionStr>
+            <TransitionStr>0.5s/X230C</TransitionStr>
             <ActionStr>?</ActionStr>
             <Caption />
             <Id>04171961-200d-4b38-af4f-f337e0d431cc</Id>
@@ -30264,8 +30264,8 @@ todavía hay soportes o no</Caption>
         <AoPins>2,3</AoPins>
       </PinConfig>
     </ArduinoDueSettings>
-    <DtGrafcetStructure>2026-01-07T15:31:34.8986608+01:00</DtGrafcetStructure>
-    <DtInterpreterData>2026-01-07T15:31:34.8986608+01:00</DtInterpreterData>
+    <DtGrafcetStructure>2026-01-07T18:58:32.4111244+01:00</DtGrafcetStructure>
+    <DtInterpreterData>2026-01-07T20:03:45.3026366+01:00</DtInterpreterData>
     <TimeStampGrafcetDataOnline xsi:nil="true" />
     <TimeStampInterpreterDataOnline xsi:nil="true" />
     <IoPanelSettings>
