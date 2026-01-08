@@ -12,10 +12,10 @@ IGuiPage
 	{
 		id: q486539310
 		objId: 486539310
-		x: 165
-		y: 179
-		width: 96
-		height: 32
+		x: 153
+		y: 161
+		width: 227
+		height: 177
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 2
 		qm_ImageSource: "image://QSmartImageProvider/28#2#4#128#0#0"
@@ -38,10 +38,10 @@ IGuiPage
 	{
 		id: q486539311
 		objId: 486539311
-		x: 460
-		y: 182
-		width: 96
-		height: 32
+		x: 447
+		y: 161
+		width: 226
+		height: 179
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 2
 		qm_ImageSource: "image://QSmartImageProvider/28#2#4#128#0#0"
